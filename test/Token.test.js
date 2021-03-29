@@ -96,8 +96,6 @@ contract('Token', ([deployer, receiver, exchange]) => {
     
         })
 
-
-        describe
         })
 
     describe('approving tokens', () => {
