@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import './App.css'
-import Navbar from './navbar'
-import Content from './content'
+import Navbar from './Navbar'
+import Content from './Content'
 import { connect } from 'react-redux'
 import {
   loadWeb3,
@@ -49,3 +49,4 @@ function mapStateToProps(state) {
 }
 
 export default connect(mapStateToProps)(App)
+
