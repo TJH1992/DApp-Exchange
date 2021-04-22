@@ -22,6 +22,7 @@ class Navbar extends Component {
             </a>
           </li>
         </ul>
+        <button class="enableEthereumButton">Enable Ethereum</button>
       </nav>
     )
   }
