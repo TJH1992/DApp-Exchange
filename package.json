@@ -1,8 +1,8 @@
 {
-  "name": "bootcamp",
+  "name": "TAAJ-Token_Exchange",
   "version": "0.2.0",
   "description": "Decentralized Ethereum Token Exchange",
-  "author": "dev@dappuniversity.com",
+  "author": "TJ Hutchinson",
   "private": true,
   "homepage": ".",
   "engines": {
